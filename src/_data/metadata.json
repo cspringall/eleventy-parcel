@@ -1,11 +1,12 @@
 {
   "title": "Eleventy-Parcel",
-  "url": "https://eleventy-parcel.netlify.app/",
+  "url": "/",
   "description": "A basic Eleventy (11ty) starter project with Parcel JS",
   "author": {
-    "name": "Michelle Barker",
-    "email": "contact@michellebarker.co.uk"
+    "name": "Crystal Springall",
+    "email": ""
   },
   "img": "og-image.jpg",
-  "githubUrl": "https://github.com/mbarker84/eleventy-parcel"
+  "githubUrl": "https://github.com/mbarker84/eleventy-parcel",
+  "postUrl": "https://css-irl.info/from-gatsby-to-eleventy"
 }

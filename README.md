@@ -2,7 +2,7 @@
 
 ## Commands
 
-Clone or download the project from the [Github repository](https://github.com/mbarker84/eleventy-parcel).
+Cloned project from here [Github repository](https://github.com/mbarker84/eleventy-parcel).
 
 ### Install dependencies
 
