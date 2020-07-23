@@ -1,4 +1,4 @@
-# Eleventy-Parcel
+# Eleventy Starter
 
 Cloned project from this [Github repository](https://github.com/mbarker84/eleventy-parcel).
 
