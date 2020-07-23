@@ -1,7 +1,5 @@
 # Eleventy-Parcel
 
-## Commands
-
 Cloned project from this [Github repository](https://github.com/mbarker84/eleventy-parcel).
 
 ### Install dependencies
