@@ -1,3 +1,3 @@
-import menu from './menu'
+import mobileMenu from './menu'
 
-menu()
+mobileMenu()

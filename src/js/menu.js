@@ -57,4 +57,29 @@ const menu = () => {
   menuWrapper.addEventListener('keydown', trapFocusInMenu)
 }
 
-export default menu
+
+// -------------
+// -- my crap --
+// -------------
+
+const desktop = () => {
+  menuBtn.hidden = true
+  menuWrapper.hidden = false
+  homeLink.hidden = true
+  menuWrapper.classList.remove('js-menu')
+}
+
+const mobileMenu = () => {
+  if (window.innerWidth < 960) {
+    menu()
+  } else {
+    desktop()
+  }
+}
+
+window.addEventListener('resize', mobileMenu)
+
+export default mobileMenu
+
+
+

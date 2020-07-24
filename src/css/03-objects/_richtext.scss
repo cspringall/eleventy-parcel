@@ -34,8 +34,8 @@
   }
 
   h1 {
-    margin-bottom: calc(2 * var(--vr));
-    padding-bottom: var(--vr);
+    margin-bottom: var(--vr);
+    padding-bottom: calc(var(--vr) / 2);
     border-bottom: 0.2rem solid;
   }
 
