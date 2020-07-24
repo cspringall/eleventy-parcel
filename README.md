@@ -1,6 +1,8 @@
 # Eleventy Starter
 
-Cloned project from this [Github repository](https://github.com/mbarker84/eleventy-parcel).
+If I had a portfolio website this is what it might look like, it's a work in progress..
+
+Forked from Michelle Barker at this [Github repository](https://github.com/mbarker84/eleventy-parcel).
 
 ### Install dependencies
 

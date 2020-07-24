@@ -1,12 +1,12 @@
 {
-  "title": "Eleventy Starter",
+  "title": "Crystal Springall",
   "url": "/",
-  "description": "A basic Eleventy (11ty) starter project with Parcel JS",
+  "description": "I'm Crystal, a cat parent and Front End Developer of sorts.",
   "author": {
     "name": "Crystal Springall",
     "email": ""
   },
   "img": "og-image.jpg",
   "githubUrl": "https://github.com/mbarker84/eleventy-parcel",
-  "postUrl": "https://css-irl.info/from-gatsby-to-eleventy"
+  "codepenUrl": "https://codepen.io/CrystalS"
 }

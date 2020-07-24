@@ -1,12 +1,22 @@
 [
   {
-    "title": "Github",
-    "icon": "github",
-    "url": "https://github.com/"
+    "title": "Codepen",
+    "icon": "codepen",
+    "url": "https://codepen.io/CrystalS"
   },
   {
     "title": "Twitter",
     "icon": "twitter",
     "url": "https://twitter.com/"
+  },
+  {
+    "title": "Github",
+    "icon": "github",
+    "url": "https://github.com/cspringall"
+  },
+  {
+    "title": "LinkedIn",
+    "icon": "linkedin",
+    "url": "https://linkedin.com/"
   }
 ]
