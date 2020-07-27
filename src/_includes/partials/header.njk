@@ -24,8 +24,8 @@
 
         {% for item in menudata %}
           <li class="c-header__item">
-            <a class="c-header__link" href="{{ item.url }}">
-              {{ item.title }}
+            <a class="c-header__link" href="{{ item.url }}" aria-label="{{ item.title }}">
+              <span class="c-header__label">{{ item.title }}</span>
               <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30">
                 <use href="#{{ item.icon }}"/>
               </svg>

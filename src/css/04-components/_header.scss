@@ -116,6 +116,10 @@
   }
 }
 
+.c-header__label {
+  display: none;
+}
+
 .js-menu {
   .c-header__nav {
     position: absolute;
@@ -143,6 +147,10 @@
   .c-header__list {
     display: block;
     margin-left: 0;
+  }
+
+  .c-header__label {
+    display: block;
   }
 }
 
