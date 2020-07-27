@@ -11,14 +11,13 @@
     {% set showHomeLink = true %}
     {% include "./partials/header.njk" %}
 
-    <div class="page-content">
+    <article class="page-content">
       <div class="container o-richtext">
         <h1>{{ pageTitle }}</h1>
-        <p>You're going to be an interesting companion, Mr. Data.</p>
-        {% include "./partials/post-list.njk" %}
+        <p>Date Posted: {{ postDate }}</p>
         {{ content | safe }}
       </div>
-    </div>
+    </article>
 
     {% include "./partials/footer.njk" %}
 

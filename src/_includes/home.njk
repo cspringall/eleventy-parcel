@@ -36,6 +36,14 @@
       </div>
     </div>
 
+    <div class="page-content">
+        <div class= "container">
+          <h2>Latest posts</h2>
+            {% include "./partials/post-list.njk" %}
+        </div>
+    </div>
+ 
+
     {{ content | safe }}
 
     {% include "./partials/footer.njk" %}
