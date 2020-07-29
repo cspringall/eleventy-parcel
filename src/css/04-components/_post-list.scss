@@ -1,0 +1,25 @@
+.post-list {
+  position: relative;
+
+  ul {
+    list-style: none;
+    margin-top: var(--vr);
+    margin-left: 0;
+  }
+
+  &__item {
+    margin-bottom: 1.5rem;
+  }
+
+  &__link {
+    text-decoration: none;
+  }
+
+  &__link:hover {
+    text-decoration: underline;
+  }
+
+  &__date {
+    //font-weight: 600;
+  }
+}

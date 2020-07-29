@@ -12,9 +12,13 @@
     {% include "./partials/header.njk" %}
 
     <article class="page-content">
-      <div class="container o-richtext">
+      <header>
+      <div class="container">
         <h1>{{ pageTitle }}</h1>
-        <p>Date Posted: {{ postDate }}</p>
+        <p>Date Posted: {{ postDate }}</p>    
+      </div>      
+      </header>
+      <div class="container o-richtext">
         {{ content | safe }}
       </div>
     </article>
